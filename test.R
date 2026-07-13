@@ -7,3 +7,9 @@ external <- c(58, 60, 74, 45, 64)
 total <- internal + external
 cat("Total marks: ")
 print(total)
+
+# Auth Function
+auth<-function()
+{
+  # Code
+}
